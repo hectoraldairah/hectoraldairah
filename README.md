@@ -8,7 +8,7 @@
   - Modern CSS
   - Elixir
 
-- 👨‍💻 I write about things on [bitbyte.com](bitbyte.blog)
+- 👨‍💻 I write about things on [bitbyte.blog](https://www.bitbyte.blog/)
 
 - 💬 Ask me about **react, vue, cooking and how not to sleep**
 
